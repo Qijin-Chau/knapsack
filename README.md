@@ -3,6 +3,7 @@ README
 Artificial Intelligence
 
 1. Define the problem as a genetic algorithm
+       
        The individuals/people of a population will be represented as
        the possible backpacks that can be filled using the given boxes.
        
@@ -25,6 +26,7 @@ Artificial Intelligence
  
 
  2. Provide the genome for the problem
+ 
        As stated above, individuals will have a discrete representation
        as their genetic encoding. This discrete representation will be
        a 12-element binary array because there are also 12 possible
